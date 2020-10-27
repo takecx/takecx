@@ -1,3 +1,8 @@
+- 🔭 I’m currently working on C# and Python.
+- 🌱 I’m currently learning MachineLearning and ProjectManagement and so on.
+- 📫 How to reach me: [Twitter](https://twitter.com/panda531)
+
+
 ![takecx's github stats](https://github-readme-stats.vercel.app/api?username=takecx&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takecx)
